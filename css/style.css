@@ -1,0 +1,73 @@
+.logo{
+    width: 260px;
+}
+header{
+    background-color: #f0f2ff;
+}
+.custom-nav{
+    background-color: #f0f2ff;
+}
+.custom-text{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    color: #36395b;
+}
+h3.custom-text{
+    font-size: 45px;
+}
+.custom-text-span{
+    color: #fa814c;
+}
+.custom-button{
+    padding: 15px 35px;
+}
+.custom-card-title{
+    color: #36395b;
+    font-weight: 700;
+    font-size: 22px;
+}
+.yellow-coat-jacket{
+    height: 280px;
+    width: 280px;
+}
+.ladies-jacket{
+    height: 280px;
+    width: 207px;
+}
+.leather-jacket{
+    height: 280px;
+    width: 228px;
+}
+.snowboard-jacket{
+    height: 280px;
+    width: 210px;
+}
+.man-leather-jacket{
+    height: 280px;
+    width: 265px;
+}
+.casual-jacket{
+    height: 280px;
+    width: 192px;
+}
+.bottom-part-img{
+    height: 80px;
+    margin-right: 35px;
+}
+.bottom-part-text{
+    color: #36395b;
+    font-weight: 700;
+    font-size: 25px;
+}
+.extra-text{
+    font-size: 12px;
+}
+h6.extra-text{
+    font-weight: 700;
+}
+footer{
+    background-color: gray;
+}
+.logo-bottom{
+    width: 380px;
+}
